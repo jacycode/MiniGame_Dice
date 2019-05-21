@@ -3,7 +3,7 @@
 
 #### 1、MiniGame_Dice项目已发布，在微信搜索《掷骰子》即可尝鲜。
 
-#### 2、当前版本功能介绍，可以访问[此链接](https://www.zhuoranstudio.com "测试")。
+#### 2、当前版本功能介绍，可以访问[此链接](https://v.youku.com/v_show/id_XNDE5MDM5MTE1Ng==.html?spm=a2h3j.8428770.3416059.1 "测试")（手机的GPU太水了🤦‍♂️）。
 
 #### 3、这是一个技术预研类项目（暂不公开源码，太糙😆），大家可以在issues模块提bug。
 
